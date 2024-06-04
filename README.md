@@ -11,6 +11,7 @@ An open-source AI chatbot app template built with Next.js, the Vercel AI SDK, Go
 - [shadcn/ui](https://ui.shadcn.com/) for reusable components
 - Chat History, rate limiting, and session storage with [Vercel KV](https://vercel.com/storage/kv)
 - Dark mode support
+- [NextAuth.js](https://github.com/nextauthjs/next-auth) for authentication
 
 ## Running Locally
 
